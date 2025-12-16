@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ekaterina 👋
 
-<!--
-**EkaterinaShmeleva/EkaterinaShmeleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior .NET Developer (C# | ASP.NET | Blazor)  
+Currently completing my retraining as *Fachinformatikerin für Anwendungsentwicklung*  
+and doing an internship at **digi3 GmbH & Co. KG**.
 
-Here are some ideas to get you started:
+## 👩‍💻 What I work with
+- **C# / .NET**
+- **ASP.NET MVC & Blazor**
+- **Entity Framework Core**
+- **SQL**
+- **HTML, CSS, JavaScript**
+- **Git & Azure DevOps**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Projects
+Here you can find a selection of my learning and practice projects:
+- Web applications with ASP.NET MVC & Blazor  
+- Small browser games with JavaScript  
+- C# console applications  
+- Database-focused projects (SQL, EF Core)
+
+## 🌱 Currently learning
+- .NET MAUI
+- Clean architecture & separation of concerns
+- Writing clean, readable code
+
+## 📍 About me
+I like structured thinking, clear code and projects that are both functional and pleasant to use.  
+Besides coding, I enjoy game development, working with AI tools and yoga.
+
+📫 **LinkedIn:** https://www.linkedin.com/in/ekaterina-shmeleva-developer
