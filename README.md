@@ -19,6 +19,11 @@ Here you can find a selection of my learning and practice projects:
 - C# console applications  
 - Database-focused projects (SQL, EF Core)
 
+### 🔧 Currently working on
+- Backend prototype for automated patchnote generation
+- Azure DevOps REST API integration
+- Clean architecture (Core / Infrastructure / CLI)
+
 ## 🌱 Currently learning
 - .NET MAUI
 - Clean architecture & separation of concerns
