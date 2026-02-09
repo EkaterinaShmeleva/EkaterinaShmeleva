@@ -11,6 +11,9 @@ and doing an internship at **digi3 GmbH & Co. KG**.
 - **SQL**
 - **HTML, CSS, JavaScript**
 - **Git & Azure DevOps**
+- Vue 3 (Vite)
+- TypeScript (basics)
+- Vue DevTools
 
 ## 🧩 Projects
 Here you can find a selection of my learning and practice projects:
@@ -18,13 +21,19 @@ Here you can find a selection of my learning and practice projects:
 - Small browser games with JavaScript  
 - C# console applications  
 - Database-focused projects (SQL, EF Core)
+- Vue 3 learning sandbox (forms, validation, lists, reusable components)
+
 
 ## 🔧 Currently working on
 - Backend prototype for automated patchnote generation
 - Azure DevOps REST API integration
 - Clean architecture (Core / Infrastructure / CLI)
 
+
 ## 🌱 Currently learning
+- Vue 3 (Vite): SFC, v-model, v-if, v-for, event handling
+- TypeScript basics in frontend components
+- Component communication (props, emits) & Composition API fundamentals
 - .NET MAUI
 - Clean architecture & separation of concerns
 - Writing clean, readable code
