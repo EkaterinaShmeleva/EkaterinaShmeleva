@@ -11,9 +11,9 @@ and doing an internship at **digi3 GmbH & Co. KG**.
 - **SQL**
 - **HTML, CSS, JavaScript**
 - **Git & Azure DevOps**
-- Vue 3 (Vite)
-- TypeScript (basics)
-- Vue DevTools
+- **Vue 3 (Vite)**
+- **TypeScript (basics)**
+- **Vue DevTools**
 
 ## 🧩 Projects
 Here you can find a selection of my learning and practice projects:
